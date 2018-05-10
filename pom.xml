@@ -11,7 +11,7 @@
 
 	<name>Artifactory example with Maven</name>
 
-    <distributionManagement>
+    <!--distributionManagement>
         <repository>
             <id>central</id>
             <name>MTYTM17421YRL-releases</name>
@@ -22,6 +22,6 @@
             <name>MTYTM17421YRL-snapshots</name>
             <url>http://localhost:8081/artifactory/artifactory-local-snapshot</url>
         </snapshotRepository>
-    </distributionManagement>
+    </distributionManagement-->
 
 </project>
